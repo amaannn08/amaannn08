@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Aman 👋
 
-<!--
-**amaannn08/amaannn08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & AI Systems Engineer  
+IIT Kharagpur  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **AI-powered products and scalable backend systems**.  
+Mostly working with RAG pipelines, vector databases, and APIs that actually ship.
+
+---
+
+## ⚙️ What I work with
+- **Backend:** FastAPI, Node.js, Express  
+- **AI:** RAG, LLM integrations, vector search  
+- **DB:** PostgreSQL, pgvector  
+- **Languages:** C++, Python, JavaScript  
+
+---
+
+## 🚀 What I'm into
+- AI-native products (not wrappers)
+- Backend systems that scale
+- Tech × Finance
+
+---
+
+## 📌 Currently
+- Building production-ready AI systems  
+- Exploring deeper backend architecture  
+
+---
+
+## 🤝 Reach out
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINK  
+- Email: YOUR_EMAIL  
+
+---
+
+> I like ownership, fast execution, and building things that people actually use.
