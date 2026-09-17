@@ -116,10 +116,10 @@ I don't just wrap external APIs — I design and build **production-grade AI sys
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=amaannn08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A41D&icon_color=F7A41D&text_color=E6EDF3" alt="Aman's GitHub Stats" height="175" />
+        <img src="https://github-stats-extended.vercel.app/api?username=amaannn08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A41D&icon_color=F7A41D&text_color=E6EDF3" alt="Aman's GitHub Stats" height="175" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaannn08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A41D&text_color=E6EDF3" alt="Top Languages" height="175" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amaannn08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A41D&text_color=E6EDF3" alt="Top Languages" height="175" />
       </td>
     </tr>
   </table>
