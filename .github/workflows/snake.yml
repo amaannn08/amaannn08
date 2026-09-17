@@ -5,6 +5,13 @@ on:
     - cron: "0 0 * * *"  # Daily
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
